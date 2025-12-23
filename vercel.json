@@ -1,13 +1,1 @@
-{
-  "headers": [
-    {
-      "source": "/(.*)",
-      "headers": [
-        {
-          "key": "Content-Security-Policy",
-          "value": "default-src * 'unsafe-inline' 'unsafe-eval' data:; script-src * 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.googleadservices.com https://www.google.com https://connect.facebook.net https://*.google-analytics.com; img-src * data:; connect-src * https://www.google.com https://www.google-analytics.com https://www.googletagmanager.com https://www.facebook.com https://region1.analytics.google.com data:; style-src * 'unsafe-inline'; font-src * data:; frame-src * https://www.googletagmanager.com;"
-        }
-      ]
-    }
-  ]
-}
+{}
